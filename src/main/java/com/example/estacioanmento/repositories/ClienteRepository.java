@@ -1,4 +1,4 @@
 package com.example.estacioanmento.repositories;
 
-public class ClienteRepository {
+public interface ClienteRepository {
 }
